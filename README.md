@@ -20,4 +20,4 @@
 ---
 
 <!-- GitHub Readme Stats -->
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=SMTahaWaqare&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=SMTahaWaqar&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
